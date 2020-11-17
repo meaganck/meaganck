@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About ⚡ 
+## About 💬
 - Pursing Bachelor of Cognitive Science
 - Languages and Tools: C, Java, Python, HTML and CSS
 
@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ## Currently Working On 🤔
 - Current project: My personal website (which you should check out!)
 - Currently learning Javascript
+
+## ⚡ Currently looking for summer intership! ⚡
