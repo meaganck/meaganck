@@ -1,5 +1,4 @@
 # Hello, I am Meagan! 👋
-Welcome to my GitHub!!
 
 <!--
 **meaganck/meaganck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About 💬
-- Pursing Bachelor of Cognitive Science
+- Pursing Bachelor of Cognitive Science with Concentration in Computer Science
 - Languages and Tools: C, Java, Python, HTML and CSS
 
 
