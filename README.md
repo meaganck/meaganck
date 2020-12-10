@@ -15,17 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About 💬
+# :coffee: About 
 - Pursing Bachelor of Cognitive Science with Concentration in Computer Science
 - Languages and Tools: C, Java, Python, HTML and CSS
+- [LinkedIn](www.linkedin.com/in/meagan-choo-kang)
 
 
-# Interests 🌱
+# :herb: Interests 
 - AI
 - Human Computer Interaction
 - Sustainability
 - Plants
 
-# Currently Working On 🤔
-- Current project: My personal website (which you should check out!)
-- Currently learning Javascript
+# :thought_balloon: Currently Working On 
+- My personal website (which you should [check out!](https://meaganck.github.io/))
+- Grade Calculator :books:
