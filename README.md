@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # :coffee: About 
 - Pursing Bachelor of Cognitive Science with Concentration in Computer Science
 - Languages and Tools: C, Java, Python, HTML and CSS
-- [LinkedIn](www.linkedin.com/in/meagan-choo-kang)
+- [LinkedIn](http://www.linkedin.com/in/meagan-choo-kang)
 
 
 # :herb: Interests 
