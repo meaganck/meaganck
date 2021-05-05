@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 
 # :thought_balloon: Currently Working On 
 - My personal website (which you should [check out!](https://meaganck.github.io/))
-- Grade Calculator :books:
