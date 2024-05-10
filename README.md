@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # :coffee: About 
-- Pursing Bachelor of Cognitive Science with Concentration in Computer Science
+- Bachelor of Cognitive Science with Concentration in Computer Science
 - Languages: C, C++, Java, JavaScript, Python, PHP
 - Tools: HTML and CSS, MongoDB, Mongoose, node.js, javafx, pug
 - [LinkedIn](http://www.linkedin.com/in/meagan-choo-kang)
-
 
 # :herb: Interests 
 - AI
 - Human Computer Interaction
 - Sustainability
 - Plants
-
-# :thought_balloon: Currently Working On 
-- My personal website (which you should [check out!](https://meaganck.github.io/))
