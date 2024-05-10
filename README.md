@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## :coffee: About 
 - Bachelor of Cognitive Science with Concentration in Computer Science
 - Languages: C, C++, Java, JavaScript, Python, PHP
-- Tools: HTML and CSS, MongoDB, Mongoose, node.js, javafx, pug
+- Tools: HTML and CSS, Tensorflow / Keras, MongoDB, Mongoose, node.js, javafx, pug
 - [LinkedIn](http://www.linkedin.com/in/meagan-choo-kang)
 
 ## :herb: Interests 
